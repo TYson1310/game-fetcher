@@ -1,0 +1,6 @@
+{
+  "name": "NJ Lottery Scratch-Offs & Winning Numbers Tracker",
+  "description": "Live New Jersey Lottery scratch-off ticket explorer and official draw game winning numbers with price and prize filters, odds breakdown, and ticket previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
